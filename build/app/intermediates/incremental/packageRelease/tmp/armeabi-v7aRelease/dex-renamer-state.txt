@@ -1,0 +1,4 @@
+#Sun Jun 26 11:19:43 BDT 2022
+base.0=E\:\\Android App\\Developer by Ramjan\\All Flutter App\\Manik Bastralaya Webview app\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

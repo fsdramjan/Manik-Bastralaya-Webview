@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Android App\\Developer by Ramjan\\All Flutter App\\Manik Bastralaya Webview app\\build\\flutter_webview_plugin\\intermediates\\merged_res\\release\\values-v18\\values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\AR\\.gradle\\caches\\transforms-3\\5cd960781a6a1948b7b0e7aa56175b49\\transformed\\appcompat-1.1.0\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\Android App\\Developer by Ramjan\\All Flutter App\\Manik Bastralaya Webview app\\build\\flutter_webview_plugin\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v18\\values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\AR\\.gradle\\caches\\transforms-3\\5cd960781a6a1948b7b0e7aa56175b49\\transformed\\appcompat-1.1.0\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
